@@ -1,5 +1,5 @@
 # Fashion-MNIST-Classification
-This is a simple convoluation neural network using tensorflow to classify Fashion-MNIST dataset.
+This is a simple convoluation neural network using tensorflow to classify Fashion-MNIST dataset with 97.94% accuracy on training set and 91.56% accuracy on test set.
 The training set consists of 60k examples and test set consists of 10k examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes as mentioned below.
 
 0 T-shirt/top
